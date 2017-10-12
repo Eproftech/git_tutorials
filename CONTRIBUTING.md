@@ -3,6 +3,7 @@
 We're making it easy to do interesting things with git, and we'd love to have
 your help.
 
+sdhd dijjdiijd
 ## Licensing
 
 By contributing to libgit2, you agree to release your contribution under
@@ -18,6 +19,8 @@ from them into your own application.
 We hang out in the
 [`#libgit2`](http://webchat.freenode.net/?channels=#libgit2)) channel on
 irc.freenode.net.
+
+## I am adding this line here to my code just as i like it
 
 Also, feel free to open an
 [Issue](https://github.com/libgit2/libgit2/issues/new) to start a discussion
